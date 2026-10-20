@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marcusviniciusps08-hue.github.io/tempo-e-brilho/sitemap.xml
