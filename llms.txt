@@ -1,0 +1,51 @@
+# Tempo & Brilho
+
+> Relógios, joias e acessórios. Preços lidos nos anúncios do Mercado Livre, com a data de leitura.
+
+Contém links de afiliado Mercado Livre.
+
+## Categorias
+- [Relógios](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/categoria/relogios/)
+- [Joias e Bijuterias](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/categoria/joias-e-bijuterias/)
+- [Smartwatches](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/categoria/smartwatches/)
+- [Joias, piercings e cuidados](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/categoria/joias-piercings-e-cuidados/)
+- [Relógios de parede, mesa e bolso](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/categoria/relogios-de-parede-mesa-e-bolso/)
+- [Acessórios Para Relógios](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/categoria/acessorios-para-relogios/)
+
+## Guias de compra
+- [Como escolher acessórios para relógios: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/como-escolher-acessorios-para-relogios/)
+- [Acessórios Para Relógios até R$ 30: opções e preços](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/acessorios-para-relogios-ate-30/)
+- [Como escolher broches: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/como-escolher-broches/)
+- [Broches até R$ 30: opções e preços](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/broches-ate-30/)
+- [Como escolher colares: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/como-escolher-colares/)
+- [Colares até R$ 50: opções e preços](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/colares-ate-50/)
+- [Como escolher joias e bijuterias: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/como-escolher-joias-e-bijuterias/)
+- [Joias e Bijuterias até R$ 40: opções e preços](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/joias-e-bijuterias-ate-40/)
+- [Como escolher joias e relógios: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/como-escolher-joias-e-relogios/)
+- [Joias e Relógios até R$ 70: opções e preços](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/joias-e-relogios-ate-70/)
+- [Como escolher relógio: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/como-escolher-relogio/)
+- [Relógios até R$ 140: opções e preços](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/relogios-ate-140/)
+- [Como escolher smartwatch: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/como-escolher-smartwatch/)
+- [Smartwatches até R$ 400: opções e preços](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/smartwatches-ate-400/)
+
+## Comparativos
+- [Fivela Modelo 143 Bonezinho Cowboy 45mm Banho Alpaca vs 05 Bateria Relógio De Pulso 377 Sr626sw Murata: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/fivela-modelo-143-bonezinho-cowboy-45mm-banho-alpaca-vs-05-bateria-relogio-de-pulso-377-sr/)
+- [Fivela Para Jardineira - Macacão 4 Cm Níquel vs 2 Anel Passador Compativel Com Garmin Forerunner 245: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/fivela-para-jardineira-macacao-4-cm-niquel-vs-2-anel-passador-compativel-com-garmin-foreru/)
+- [5 Bateria Murata Sony 377 Sr626sw - 01 vs Fivela C Garra 40mm Laser Zk401134-6: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/5-bateria-murata-sony-377-sr626sw-01-vs-fivela-c-garra-40mm-laser-zk401134-6/)
+- [Kit 4 Peças Broche Alfinete Ajuste Roupa Decote vs Kit 2 Broche Botton Nossa Senhora Aparecida Dourado: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/kit-4-pecas-broche-alfinete-ajuste-roupa-decote-vs-kit-2-broche-botton-nossa-senhora-apare/)
+- [Colar Feminino Prata 925 Ponto De Luz Coração vs Zircão Flor Jóias Brincos Pulseira Colar Conjunto: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/colar-feminino-prata-925-ponto-de-luz-coracao-vs-zircao-flor-joias-brincos-pulseira-colar-/)
+- [Par Broches De Trigo Gola Colarinho Feminino Chique vs 1 Conjunto De 5 Pulseiras Femininas Semi Joias: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/par-broches-de-trigo-gola-colarinho-feminino-chique-vs-1-conjunto-de-5-pulseiras-femininas/)
+- [1 Conjunto De 5 Pulseiras Femininas Semi Joias vs Broche Pin Laço Outubro Rosa Com Brilho: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/1-conjunto-de-5-pulseiras-femininas-semi-joias-vs-broche-pin-laco-outubro-rosa-com-brilho/)
+- [5 Botão/extensor/alargador Para Colarinho De Camisa Apertada vs Kit 2 Pulseiras Bracelete Feminino Trevo Prego Love: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/5-botao-extensor-alargador-para-colarinho-de-camisa-apertada-vs-kit-2-pulseiras-bracelete-/)
+- [Piercing Titânio Argola Click Cravejada 6mm 8mm 10mm vs Piercing Titânio Mini Florzinha Australiano Labret Push Pin: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/piercing-titanio-argola-click-cravejada-6mm-8mm-10mm-vs-piercing-titanio-mini-florzinha-au/)
+- [Kit Caneta Lapiseira Executivo Premium Personalizada Nome vs Caneta Chique Presente Luxo Personalizada Nome Logo Crown: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/kit-caneta-lapiseira-executivo-premium-personalizada-nome-vs-caneta-chique-presente-luxo-p/)
+- [Relógio WR Retrô Digital Aço Inoxidável Vintage Unisex vs Relógio Masculino Wokai Social Analógico de Pulso com: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/relogio-wr-retro-digital-aco-inoxidavel-vintage-unisex-vs-relogio-masculino-wokai-social-a/)
+- [Geneva Quartzo Br01 Masculino Adultos vs Kit Relógio Feminino Colar Brinco Pulseira Folheado Presente: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/geneva-quartzo-br01-masculino-adultos-vs-kit-relogio-feminino-colar-brinco-pulseira-folhea/)
+- [Relógio Digital pulso Skmei 1251 Masculino Esportivo à vs Relógio Masculino Digital Analógico SKMEI 1146 Prata Resistente: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/relogio-digital-pulso-skmei-1251-masculino-esportivo-a-vs-relogio-masculino-digital-analog/)
+- [Relógio Inteligente Smart Band Sports E À Prova vs Smartwatch Microwear S11 47mm Metal com GPS, NFC: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/relogio-inteligente-smart-band-sports-e-a-prova-vs-smartwatch-microwear-s11-47mm-metal-com/)
+- [Smartwatch Microwear S11 Pro Dourado AMOLED IP68 Com vs Relogio Microwear Smartwatch S11 Mini Series 11 42mm: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/smartwatch-microwear-s11-pro-dourado-amoled-ip68-com-vs-relogio-microwear-smartwatch-s11-m/)
+- [Xiaomi Smart Band Mi Band 9 Active Relógio vs Pulseira Inteligente Xiaomi Smart Band 9 Active Tela: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/xiaomi-smart-band-mi-band-9-active-relogio-vs-pulseira-inteligente-xiaomi-smart-band-9-act/)
+
+## Sobre
+- [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/sobre/)
+- [Perguntas frequentes](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/faq/)
