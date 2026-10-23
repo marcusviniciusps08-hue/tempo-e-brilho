@@ -1,18 +1,22 @@
 # Tempo & Brilho
 
-> Relógios, joias e acessórios. Preços lidos nos anúncios do Mercado Livre, com a data de leitura.
+> Relógios, joias e acessórios. Preços lidos nos anúncios (Mercado Livre e Shopee), com a data de leitura.
 
-Contém links de afiliado Mercado Livre.
+Contém links de afiliado Mercado Livre e Shopee.
 
 ## Categorias
+- [Joias e bijuterias](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/categoria/joias-e-bijuterias/)
 - [Relógios](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/categoria/relogios/)
-- [Joias e Bijuterias](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/categoria/joias-e-bijuterias/)
 - [Smartwatches](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/categoria/smartwatches/)
 - [Joias, piercings e cuidados](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/categoria/joias-piercings-e-cuidados/)
 - [Relógios de parede, mesa e bolso](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/categoria/relogios-de-parede-mesa-e-bolso/)
 - [Acessórios Para Relógios](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/categoria/acessorios-para-relogios/)
 
 ## Guias de compra
+- [Como escolher joia: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/como-escolher-joia/)
+- [Joias e bijuterias até R$ 20: opções e preços](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/joias-e-bijuterias-ate-20/)
+- [Como escolher relógio: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/como-escolher-relogio/)
+- [Relógios até R$ 140: opções e preços](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/relogios-ate-140/)
 - [Como escolher acessórios para relógios: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/como-escolher-acessorios-para-relogios/)
 - [Acessórios Para Relógios até R$ 30: opções e preços](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/acessorios-para-relogios-ate-30/)
 - [Como escolher broches: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/como-escolher-broches/)
@@ -23,12 +27,16 @@ Contém links de afiliado Mercado Livre.
 - [Joias e Bijuterias até R$ 40: opções e preços](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/joias-e-bijuterias-ate-40/)
 - [Como escolher joias e relógios: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/como-escolher-joias-e-relogios/)
 - [Joias e Relógios até R$ 70: opções e preços](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/joias-e-relogios-ate-70/)
-- [Como escolher relógio: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/como-escolher-relogio/)
-- [Relógios até R$ 140: opções e preços](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/relogios-ate-140/)
 - [Como escolher smartwatch: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/como-escolher-smartwatch/)
 - [Smartwatches até R$ 400: opções e preços](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/guias/smartwatches-ate-400/)
 
 ## Comparativos
+- [26 Letras Az Amor Nó Inicial Pulseira Macia vs Organizador de Joias para Pendurar Coração de Parede: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/26-letras-az-amor-no-inicial-pulseira-macia-vs-organizador-de-joias-para-pendurar-coracao-/)
+- [Brincos femininos 1 par, na cor dourada, com vs Colar Filhos Casal Menino Menina Três Quatro Filhos: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/brincos-femininos-1-par-na-cor-dourada-com-vs-colar-filhos-casal-menino-menina-tres-quatro/)
+- [Vnox Pulseira Personalizada De Aço Inoxidável Banhado A vs Coleira colar de cordas trançadas ajustável com plaquinha: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/vnox-pulseira-personalizada-de-aco-inoxidavel-banhado-a-vs-coleira-colar-de-cordas-trancad/)
+- [KIT Com 5-20 Relógios Revenda Atacado Digital Aprova vs Relógio Masculino Wokai Social Analógico de Pulso com: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/kit-com-5-20-relogios-revenda-atacado-digital-aprova-vs-relogio-masculino-wokai-social-ana/)
+- [Geneva Quartzo Br01 Masculino Adultos vs Kit Relógio Feminino Colar Brinco Pulseira Folheado Presente: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/geneva-quartzo-br01-masculino-adultos-vs-kit-relogio-feminino-colar-brinco-pulseira-folhea/)
+- [Relógio Digital pulso Skmei 1251 Masculino Esportivo à vs 2026 Nova Série 8 Relógio T800 Ultra Smart: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/relogio-digital-pulso-skmei-1251-masculino-esportivo-a-vs-2026-nova-serie-8-relogio-t800-u/)
 - [Fivela Modelo 143 Bonezinho Cowboy 45mm Banho Alpaca vs 05 Bateria Relógio De Pulso 377 Sr626sw Murata: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/fivela-modelo-143-bonezinho-cowboy-45mm-banho-alpaca-vs-05-bateria-relogio-de-pulso-377-sr/)
 - [Fivela Para Jardineira - Macacão 4 Cm Níquel vs 2 Anel Passador Compativel Com Garmin Forerunner 245: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/fivela-para-jardineira-macacao-4-cm-niquel-vs-2-anel-passador-compativel-com-garmin-foreru/)
 - [5 Bateria Murata Sony 377 Sr626sw - 01 vs Fivela C Garra 40mm Laser Zk401134-6: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/5-bateria-murata-sony-377-sr626sw-01-vs-fivela-c-garra-40mm-laser-zk401134-6/)
@@ -39,9 +47,6 @@ Contém links de afiliado Mercado Livre.
 - [5 Botão/extensor/alargador Para Colarinho De Camisa Apertada vs Kit 2 Pulseiras Bracelete Feminino Trevo Prego Love: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/5-botao-extensor-alargador-para-colarinho-de-camisa-apertada-vs-kit-2-pulseiras-bracelete-/)
 - [Piercing Titânio Argola Click Cravejada 6mm 8mm 10mm vs Piercing Titânio Mini Florzinha Australiano Labret Push Pin: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/piercing-titanio-argola-click-cravejada-6mm-8mm-10mm-vs-piercing-titanio-mini-florzinha-au/)
 - [Kit Caneta Lapiseira Executivo Premium Personalizada Nome vs Caneta Chique Presente Luxo Personalizada Nome Logo Crown: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/kit-caneta-lapiseira-executivo-premium-personalizada-nome-vs-caneta-chique-presente-luxo-p/)
-- [Relógio WR Retrô Digital Aço Inoxidável Vintage Unisex vs Relógio Masculino Wokai Social Analógico de Pulso com: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/relogio-wr-retro-digital-aco-inoxidavel-vintage-unisex-vs-relogio-masculino-wokai-social-a/)
-- [Geneva Quartzo Br01 Masculino Adultos vs Kit Relógio Feminino Colar Brinco Pulseira Folheado Presente: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/geneva-quartzo-br01-masculino-adultos-vs-kit-relogio-feminino-colar-brinco-pulseira-folhea/)
-- [Relógio Digital pulso Skmei 1251 Masculino Esportivo à vs Relógio Masculino Digital Analógico SKMEI 1146 Prata Resistente: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/relogio-digital-pulso-skmei-1251-masculino-esportivo-a-vs-relogio-masculino-digital-analog/)
 - [Relógio Inteligente Smart Band Sports E À Prova vs Smartwatch Microwear S11 47mm Metal com GPS, NFC: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/relogio-inteligente-smart-band-sports-e-a-prova-vs-smartwatch-microwear-s11-47mm-metal-com/)
 - [Smartwatch Microwear S11 Pro Dourado AMOLED IP68 Com vs Relogio Microwear Smartwatch S11 Mini Series 11 42mm: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/smartwatch-microwear-s11-pro-dourado-amoled-ip68-com-vs-relogio-microwear-smartwatch-s11-m/)
 - [Xiaomi Smart Band Mi Band 9 Active Relógio vs Pulseira Inteligente Xiaomi Smart Band 9 Active Tela: comparativo](https://marcusviniciusps08-hue.github.io/tempo-e-brilho/comparativos/xiaomi-smart-band-mi-band-9-active-relogio-vs-pulseira-inteligente-xiaomi-smart-band-9-act/)
